@@ -14,12 +14,12 @@ CodexAccountDock 是 Windows 上的 Codex 账号助手。它把账号管理、�
 
 ## 下载与安装
 
-到仓库的 **Releases** 选择 `v3.0.0`，再选适合你的包。
+打开 [最新版本下载](https://github.com/mtlwlkqy20-blip/CodexAccountDock/releases/latest)，选择适合你的包。
 
-| 版本 | 适合谁 |
-| --- | --- |
-| **Standard** | 只需要账号管理功能。 |
-| **Pet** | 希望在面板里使用桌宠入口。白龙桌宠需要另行安装。 |
+| 版本 | 适合谁 | 安装包 | 便携版 |
+| --- | --- | --- | --- |
+| **Standard** | 只需要账号管理功能。 | [下载](https://github.com/mtlwlkqy20-blip/CodexAccountDock/releases/download/v3.0.0/CodexAccountDock-v3.0.0-Standard-Setup.exe) | [下载](https://github.com/mtlwlkqy20-blip/CodexAccountDock/releases/download/v3.0.0/CodexAccountDock-v3.0.0-Standard-portable.zip) |
+| **Pet** | 希望在面板里使用桌宠入口。白龙桌宠需要另行安装。 | [下载](https://github.com/mtlwlkqy20-blip/CodexAccountDock/releases/download/v3.0.0/CodexAccountDock-v3.0.0-Pet-Setup.exe) | [下载](https://github.com/mtlwlkqy20-blip/CodexAccountDock/releases/download/v3.0.0/CodexAccountDock-v3.0.0-Pet-portable.zip) |
 
 `Setup.exe` 是安装包。也可以下载 `portable.zip`，完整解压到可写目录，再打开 `CodexAccountDock.exe`。初次启动时添加自己的账号。关闭主窗口后，可以从 Windows 系统托盘再次打开。
 
