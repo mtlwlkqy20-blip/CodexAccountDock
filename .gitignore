@@ -1,0 +1,11 @@
+data/
+bin/
+release/
+qa/
+test-output/
+rollback/
+.vs/
+.env
+auth.json
+metadata.json
+*PRIVATE*
