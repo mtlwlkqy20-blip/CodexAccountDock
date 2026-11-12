@@ -1,4 +1,4 @@
-![CodexAccountDock — Windows 本地 Codex 账号助手](docs/cover.png)
+![CodexAccountDock — Windows 本地 Codex 账号助手宣传封面](docs/cover.png)
 
 # CodexAccountDock
 
@@ -33,7 +33,7 @@ CodexAccountDock 是 Windows 上的 Codex 账号助手。它把账号管理、�
 
 ## 界面预览
 
-下图使用示例账号。
+下图为程序实际渲染的默认界面，使用示例账号。顶部封面为 AI 生成的宣传图。
 
 <img src="docs/dashboard.png" alt="CodexAccountDock V3 主界面示例" width="520">
 
